@@ -9,7 +9,7 @@
 int main(void)
 {
   /** string initialization*/
-char Mystring[] =("Programming is like building a multilingual puzzle\n");
+char Mystring[] ="""Programming is like building a multilingual puzzle\n";
 
 puts(Mystring);
 
