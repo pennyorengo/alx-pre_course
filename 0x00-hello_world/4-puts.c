@@ -10,7 +10,6 @@ int main(void)
 {
   /** string initialization*/
   char Mystring[] = "Programming is like building a multilingual puzzle\n";
-  int val = puts(Mystring);
 
   puts(Mystring);
 
