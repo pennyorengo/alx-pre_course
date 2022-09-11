@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- *'main' - Entry Point
+ *main - Entry Point
  *
  *Description: Entry point of main argument
+ *
  *Return : Always 1(success)
  */
 
