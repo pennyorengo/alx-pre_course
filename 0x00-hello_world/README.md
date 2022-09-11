@@ -1,1 +1,1 @@
-puts
+standard error
