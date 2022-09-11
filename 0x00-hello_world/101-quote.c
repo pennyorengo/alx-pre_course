@@ -3,8 +3,8 @@
 /**
  *'main' - Entry Point
  *
- *Return : Always 1(success)
  *Description: Entry point of main argument
+ *Return : Always 1(success)
  */
 
 int main(void)
