@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - Entry Point
+ *'main' - Entry Point
  *
  *Return : Always 1(success)
  *Description: Entry point of main argument
