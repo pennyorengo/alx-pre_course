@@ -4,7 +4,7 @@
  *main - Entry Point
  *
  *Description: Entry point of main argument
- *
+ *main : outputs a string
  *Return : Always 1(success)
  */
 
