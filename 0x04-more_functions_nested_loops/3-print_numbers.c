@@ -1,7 +1,9 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_numbers - prints the numbers 0 to 9
+ * @n: int used for argument of function
  * void: return value
  *
  * Return: returns nothing
