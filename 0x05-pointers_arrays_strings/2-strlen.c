@@ -6,6 +6,7 @@
  * @s: value of the character
  *
  * Return: Always 0
+ */
 
 int _strlen(char *s)
 {
